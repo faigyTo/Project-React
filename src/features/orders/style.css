@@ -1,0 +1,10 @@
+.button:hover{
+	border:2px solid #173831;
+	/* background-color : "f4cda2"; */
+	color:#173831
+}
+
+.icon:hover{
+	color:#173831
+}
+
